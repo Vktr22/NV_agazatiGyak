@@ -1,0 +1,1 @@
+Tízzel osztható számok Száma: 0
